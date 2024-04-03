@@ -54,15 +54,15 @@ void loop() {
 ```
 
 ## CIRCUIT DIAGRAM:
-<img src="https://github.com/naveen-m0804/Control-of-Relay-Using-IoT-controller/assets/117974950/172da698-a33a-43bd-8918-60bf6cd9f8af" alt="alt text" width="500" height="200" class="center"/>
+<img src="https://github.com/naveen-m0804/Control-of-Relay-Using-IoT-controller/assets/117974950/172da698-a33a-43bd-8918-60bf6cd9f8af" alt="alt text" width="500" height="300" class="center"/>
 
 ## OUTPUT:
 
 ### ON
-<img src="https://github.com/naveen-m0804/Control-of-Relay-Using-IoT-controller/assets/117974950/bdedb6d6-8a99-4767-ac87-6cfa08778393" alt="alt text" width="500" height="200" class="center"/>
+<img src="https://github.com/naveen-m0804/Control-of-Relay-Using-IoT-controller/assets/117974950/bdedb6d6-8a99-4767-ac87-6cfa08778393" alt="alt text" width="500" height="300" class="center"/>
 
 ### OFF
-<img src="https://github.com/naveen-m0804/Control-of-Relay-Using-IoT-controller/assets/117974950/5ba1ce28-cd6d-42df-8ef3-233f13146683" alt="alt text" width="500" height="200" class="center"/>
+<img src="https://github.com/naveen-m0804/Control-of-Relay-Using-IoT-controller/assets/117974950/5ba1ce28-cd6d-42df-8ef3-233f13146683" alt="alt text" width="500" height="300" class="center"/>
 
 ## RESULT:
 
