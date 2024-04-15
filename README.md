@@ -1,6 +1,6 @@
 #### NAME : SUDHARSAN RAM M 
 #### REG NO : 212222110048
-# Control of Relay Using IoT controller
+# EXP-2 Control of Relay Using IoT controller
 ##  AIM:
 To control the Relay using Arduino controller
 
